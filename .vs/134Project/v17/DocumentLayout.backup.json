@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MC\\134Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\enemydetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemydetectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\takedown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\takedown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\door_exitlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door_exitlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|c:\\users\\mc\\134project\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\main menu\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\playerhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|C:\\Users\\MC\\134Project\\assets\\scripts\\levelcompleteui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcompleteui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|c:\\users\\mc\\134project\\assets\\scripts\\gameover\\retrylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE4CDD1C-92C3-D7A2-D99E-4974195FCE73}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover\\retrylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RetryLevel.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\GameOver\\RetryLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver\\RetryLevel.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\GameOver\\RetryLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOver\\RetryLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T23:35:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\Main Menu\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main Menu\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\Main Menu\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main Menu\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:02:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerHUD.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\PlayerHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHUD.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\PlayerHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:16:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelCompleteUI.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\LevelCompleteUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelCompleteUI.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\LevelCompleteUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelCompleteUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:33:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwGYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:27:11.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Door_Exitlevel.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\Door_Exitlevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door_Exitlevel.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\Door_Exitlevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door_Exitlevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:29:09.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:42:45.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAApwMkBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T02:11:37.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Takedown.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\Takedown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Takedown.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\Takedown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Takedown.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:44:26.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyDetectionController.cs",
+              "DocumentMoniker": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\EnemyDetectionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyDetectionController.cs",
+              "ToolTip": "C:\\Users\\MC\\134Project\\Assets\\Scripts\\EnemyDetectionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyDetectionController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwI4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T02:06:55.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
